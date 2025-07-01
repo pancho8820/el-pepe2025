@@ -1,1 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diario Ambiental - Calentamiento Global</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #111;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.5em;
+      margin: 0;
+      letter-spacing: 1px;
+    }
+
+    nav {
+      background-color: #444;
+      padding: 10px 0;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+
+    .article-title {
+      font-size: 2em;
+      margin-bottom: 10px;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+
+    .article-meta {
+      color: #777;
+      font-size: 0.9em;
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #222;
+      color: #ccc;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 50px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Diario Ambiental</h1>
+  </header>
+
+  <nav>
+    <a href="#">Inicio</a>
+    <a href="#">Medio Ambiente</a>
+    <a href="#">Opinión</a>
+    <a href="#">Ciencia</a>
+    <a href="#">Contacto</a>
+  </nav>
+
+  <div class="container">
+    <h2 class="article-title">El Calentamiento Global: Una Amenaza Inminente</h2>
+    <p class="article-meta">Publicado el 1 de julio de 2025 · Redacción Diario Ambiental</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Glacier_nps_photo.jpg" alt="Glaciar derritiéndose">
+
+    <p>
+      El calentamiento global es uno de los desafíos más urgentes que enfrenta la humanidad en el siglo XXI. Se refiere al aumento gradual de la temperatura promedio de la atmósfera terrestre, principalmente debido a la acumulación de gases de efecto invernadero producidos por la actividad humana.
+    </p>
+
+    <p>
+      Los efectos del cambio climático ya se están sintiendo: el derretimiento de los glaciares, el aumento del nivel del mar, sequías más prolongadas, incendios forestales más intensos y fenómenos meteorológicos extremos. Todo esto no solo afecta al medio ambiente, sino también a millones de personas en todo el mundo.
+    </p>
+
+    <p>
+      Según el Panel Intergubernamental sobre Cambio Climático (IPCC), si no se toman medidas urgentes para reducir las emisiones de dióxido de carbono, las consecuencias podrían ser irreversibles. La temperatura global podría aumentar más de 2 °C antes de fin de siglo, afectando a la biodiversidad, la salud humana y la economía global.
+    </p>
+
+    <p>
+      Gobiernos, empresas y ciudadanos tienen un papel fundamental en la lucha contra el calentamiento global. Invertir en energías renovables, promover el transporte sostenible, proteger los bosques y cambiar hábitos de consumo son pasos clave para frenar esta amenaza.
+    </p>
+
+    <p>
+      El tiempo para actuar es ahora. El futuro del planeta está en nuestras manos.
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 Diario Ambiental. Todos los derechos reservados.
+  </footer>
+
+</body>
+</html>
 
